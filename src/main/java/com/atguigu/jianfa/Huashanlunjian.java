@@ -7,5 +7,9 @@ package com.atguigu.jianfa;
 public class Huashanlunjian {
     public static void main(String[] args) {
         System.out.println("Huashanlunjian");
+        System.out.println("Huashanlunjian");
+        System.out.println("Huashanlunjian");
+        System.out.println("Huashanlunjian");
+        System.out.println("Huashanlunjian111");
     }
 }
