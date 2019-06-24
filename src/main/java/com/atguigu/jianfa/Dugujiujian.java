@@ -7,9 +7,8 @@ package com.atguigu.jianfa;
 public class Dugujiujian {
     public static void main(String[] args) {
         System.out.println("hello,dugujiujiansss");
-        System.out.println("hello,dugujiujiansss");
-        System.out.println("hello,dugujiujiansss");
-        System.out.println("hello,dugujiujiansss");
-        System.out.println("hello,dugujiujiansss");
+        System.out.println("hello,dugujiujiansss456");
+        System.out.println("hello,dugujiujiansss456");
+
     }
 }
